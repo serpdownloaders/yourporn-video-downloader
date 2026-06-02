@@ -1,0 +1,221 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/yourporn-downloader",
+  "serply_link": "https://serp.ly/yourporn-downloader",
+  "app_name": "Yourporn Video Downloader",
+  "short_description": "Download & Save Yourporn Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Yourporn Downloader is a browser extension designed to help you save videos from YourPorn directly to your computer. The extension detects media on supported sxyprn.com pages and provides a straightforward way to download content in MP4 format for offline viewing and archiving.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/yourporn-downloader-fullscreen-01-22ee1ffc3d.webp",
+    "https://apps.serp.co/media/optimized-products/yourporn-downloader-fullscreen-02-a7701dd560.webp",
+    "https://apps.serp.co/media/optimized-products/yourporn-downloader-fullscreen-03-836e799bc7.webp",
+    "https://apps.serp.co/media/optimized-products/yourporn-downloader-fullscreen-04-4d634a7ecf.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is Yourporn Downloader available for Firefox?",
+      "answer": "The extension is designed for Chromium-based browsers including Chrome, Edge, and Brave. Firefox support may be added in future releases."
+    },
+    {
+      "question": "Can I download multiple videos at the same time?",
+      "answer": "The extension processes one download at a time. Starting a new download will cancel any active download in progress."
+    },
+    {
+      "question": "Does the extension work on all Yourporn pages?",
+      "answer": "The extension targets supported video pages on sxyprn.com. Profile and channel pages may not show download options until you navigate to a specific video."
+    },
+    {
+      "question": "Will I lose my downloads if the trial expires?",
+      "answer": "No, files you have already downloaded remain on your computer. The trial limit only affects new downloads."
+    },
+    {
+      "question": "How do I update the extension?",
+      "answer": "Check the GitHub releases page for new versions and install the latest build manually."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Creating a personal archive of content you have permission to save"
+    },
+    {
+      "name": "",
+      "description": "I see an error about permissions"
+    },
+    {
+      "name": "",
+      "description": "Review the permissions requested during installation and ensure you have accepted them. You may need to reinstall the extension."
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Detect and download videos from supported YourPorn pages",
+    "Save files directly in MP4 format for broad compatibility",
+    "Simple browser-based workflow without external tools",
+    "Works across multiple Chromium-based browsers",
+    "Free trial available to test the download process",
+    "Detects media on supported sxyprn.com pages during playback",
+    "Provides quality selection options when available",
+    "Downloads videos directly as MP4 files",
+    "Simple popup interface for initiating downloads",
+    "Works with Chrome, Edge, Brave, and other Chromium-based browsers",
+    "Includes a free trial to test functionality before purchasing",
+    "Secure email sign-in with one-time password verification",
+    "No credit card required for the trial period"
+  ],
+  "content": {
+    "why": [
+      "Downloading videos from Yourporn through standard browser methods often leads to frustration. Right-click saving rarely works, third-party online tools can be unreliable or unsafe, and media players may not handle streamed content well for offline access. You end up with broken downloads, poor quality files, or security risks from unknown websites.",
+      "Yourporn Downloader solves this by working directly inside your browser. Once installed, it detects the media playing on supported Yourporn pages and gives you clear download options. Instead of guessing which tool works or dealing with complex software, you get a consistent workflow that saves videos as standard MP4 files ready for any media player."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Yourporn and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Yourporn Downloader extension from the latest GitHub release using the installation instructions below.",
+      "Open your browser and navigate to sxyprn.com.",
+      "Find a video you want to download and open its playback page.",
+      "Start playing the video so the extension can detect the media stream.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the extension to detect available media sources on the page.",
+      "Select your preferred quality option from the list shown in the popup.",
+      "Click the download button and wait for the MP4 file to save to your computer."
+    ],
+    "supported_formats": [
+      "Input: Supported video sources detected on Yourporn pages during playback",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who want to save Yourporn videos for offline viewing",
+      "People who prefer browser-based download tools over third-party software",
+      "Collectors who archive media content locally",
+      "Users who need a consistent download workflow across multiple Chromium browsers"
+    ],
+    "use_cases": [
+      "Saving favorite videos to watch without an internet connection",
+      "Creating a personal archive of content you have permission to save",
+      "Moving videos to devices that do not support streaming",
+      "Preserving content that may be removed from the platform",
+      "Building a local media library for personal use"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the page Make sure the video is actively playing and refresh the page before trying again. Some pages may need a few seconds of playback before media sources become available.",
+      "The download starts but fails halfway Check your internet connection and available disk space. Try a lower quality option if the file size is very large.",
+      "The extension icon is grayed out The extension may not be active on the current page. Navigate to a supported Yourporn video page and refresh the browser.",
+      "I see an error about permissions Review the permissions requested during installation and ensure you have accepted them. You may need to reinstall the extension.",
+      "The popup shows no quality options Some videos may only offer a single available source. Try starting playback and waiting a few seconds before opening the popup again."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Yourporn page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension works on supported sxyprn.com pages during active playback",
+      "Saved files are stored in your browser's default download location"
+    ],
+    "about": [
+      "Yourporn is a video-sharing platform hosted on sxyprn.com that offers a wide range of user-uploaded content. The Yourporn Downloader extension provides a convenient browser-based way to save videos from the platform for offline access and personal archiving."
+    ]
+  },
+  "serpx_link": "https://serpx.link/yourporn-downloader",
+  "github_topics": [
+    "yourporn-download",
+    "yourporn-downloader",
+    "yourporn-video-downloader",
+    "yourporn-video-downloader-online",
+    "yourporn-video-downloader-mac",
+    "yourporn-video-downloader-window",
+    "yourporn-video-downloader-free",
+    "yourporn-video-downloader-extension",
+    "yourporn-video-downloader-app",
+    "yourporn-video-downloader-chrome",
+    "yourporn-video-downloader-from-url",
+    "how-to-download-yourporn-videos",
+    "how-to-download-yourporn-videos-mac",
+    "how-to-download-yourporn-videos-windows",
+    "how-to-download-yourporn-videos-online",
+    "how-to-download-yourporn-videos-free",
+    "how-to-download-from-yourporn",
+    "how-to-download-videos-from-yourporn",
+    "download-yourporn-videos",
+    "yourporn-video-tutorial",
+    "save-yourporn-videos",
+    "yourporn-video-content-saver",
+    "how-to-download-yourporn-videos-for-free"
+  ],
+  "hashtags": [
+    "#YourpornDownload",
+    "#YourpornDownloader",
+    "#YourpornVideoDownloader",
+    "#YourpornVideoDownloaderOnline",
+    "#YourpornVideoDownloaderMac",
+    "#YourpornVideoDownloaderWindow",
+    "#YourpornVideoDownloaderFree",
+    "#YourpornVideoDownloaderExtension",
+    "#YourpornVideoDownloaderApp",
+    "#YourpornVideoDownloaderChrome",
+    "#YourpornVideoDownloaderFromURL",
+    "#HowToDownloadYourpornVideos",
+    "#HowToDownloadYourpornVideosMac",
+    "#HowToDownloadYourpornVideosWindows",
+    "#HowToDownloadYourpornVideosOnline",
+    "#HowToDownloadYourpornVideosFree",
+    "#HowToDownloadFromYourporn",
+    "#HowToDownloadVideosFromYourporn",
+    "#DownloadYourpornVideos",
+    "#YourpornVideoTutorial",
+    "#SaveYourpornVideos",
+    "#YourpornVideoContentSaver",
+    "#HowToDownloadYourpornVideosForFree"
+  ],
+  "youtube_tags": [
+    "Yourporn Download",
+    "Yourporn Downloader",
+    "Yourporn Video Downloader",
+    "Yourporn Video Downloader Online",
+    "Yourporn Video Downloader Mac",
+    "Yourporn Video Downloader Window",
+    "Yourporn Video Downloader Free",
+    "Yourporn Video Downloader Extension",
+    "Yourporn Video Downloader App",
+    "Yourporn Video Downloader Chrome",
+    "Yourporn Video Downloader From URL",
+    "How To Download Yourporn Videos",
+    "How To Download Yourporn Videos Mac",
+    "How To Download Yourporn Videos Windows",
+    "How To Download Yourporn Videos Online",
+    "How To Download Yourporn Videos Free",
+    "How To Download From Yourporn",
+    "How To Download Videos From Yourporn",
+    "Download Yourporn Videos",
+    "Yourporn Video Tutorial",
+    "Save Yourporn Videos",
+    "Yourporn Video Content Saver",
+    "How To Download Yourporn Videos For Free"
+  ]
+}
